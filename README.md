@@ -5,7 +5,7 @@ I'm an enthusiastic undergrad passionate about programming and exploring the fas
 ## 🚀 About Me
 
 * 🌱 I’m currently learning **frontend development**, delving deeper into **backend technologies**, and exploring the basics of **machine learning** and **artificial intelligence**.
-* 💻 I regularly practice **data structures and algorithms** on [LeetCode]([ombothre1024 - LeetCode Profile](https://leetcode.com/u/ombothre1024/))
+* 💻 I regularly practice **data structures and algorithms** on [LeetCode](https://leetcode.com/u/ombothre1024/)
 * 🛠️ I love building projects and participating in hackathons – and I've even won a few!
 * 🤝 I’m always open to collaborating on projects and contributing to open-source communities.
 
