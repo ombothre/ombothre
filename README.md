@@ -11,7 +11,7 @@ I'm an enthusiastic undergrad passionate about programming and exploring the fas
 
 ## 🛠️ Skills
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ombothre1024?theme=dark&font=Cabin%20Sketch)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ombothre1024?theme=dark&font=Cabin%20Sketch) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ombothre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages & Frameworks:
 
